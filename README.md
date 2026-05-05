@@ -12,6 +12,5 @@ Now building tools at the intersection of AppSec and Software Development
 Python | JavaScript | FastAPI | Docker | Linux
 
 
-- 🔭 I’m currently working on ...
 
 - 📫 How to reach me: www.linkedin.com/in/percydiaz | percy.diaz@outlook.com
