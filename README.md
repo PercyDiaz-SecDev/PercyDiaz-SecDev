@@ -1,6 +1,5 @@
 # Hi, I'm Percy - Security Engineer turned Developer 👋
-20+ years in Technology from Infrastructure, Networking, Software Development and Security (.. and everything in between)
-. Now building tools at the intersection of AppSec and Software Development
+20+ years in Technology from Infrastructure, Networking, Software Development and Security (.. and everything in between). Now building tools at the intersection of AppSec and Software Development
 
 ## What I Build
 - 🔭 I’m currently working on
